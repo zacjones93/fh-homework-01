@@ -2,7 +2,7 @@
 
 ## Due Date
 
-TBD
+Wednesday, November 1, 2017 @ 2:00 PM
 
 ## Goals
 
@@ -82,7 +82,7 @@ NA
 
 ## Deliverables
 
-  - create a repo called `homework-01` and push your solution to Github.com
+  - create a repo called `fh-homework-01` and push your solution to Github.com
 
 ## Have Questions
 
