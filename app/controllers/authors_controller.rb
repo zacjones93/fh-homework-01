@@ -3,7 +3,7 @@ class AuthorsController < ApplicationController
 
   # GET /authors
   # GET /authors.json
-  def indexs
+  def index
     @authors = Author.all
   end
 
